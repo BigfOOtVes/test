@@ -5,6 +5,10 @@
 	<title>TESTGIT</title>
 </head>
 <body>
-	<?php phpinfo(); ?>
+	<?php echo "Privet! GIT"; ?>
+	<div>
+	  <p>Privet! vim<p/>
+	</div>
+	<script type="text/javascript" src=""></script>
 </body>
 </html>
