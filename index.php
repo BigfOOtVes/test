@@ -3,6 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>TESTGIT</title>
+	<style>
+		body {
+			background-color: grey;
+		}
+	</style>
 </head>
 <body>
 	<h1>ТЕСТИРУЕМ ГИТ</h1>
