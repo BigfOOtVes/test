@@ -15,6 +15,8 @@
 	<?php echo "Privet! GIT"; ?>
 	<div>
 	  <p>Privet! vim<p/>
+	  <h2>Write for git</h2>
+	  <p>testing write for git</p>
 	</div>
 	<script type="text/javascript" src=""></script>
 </body>
