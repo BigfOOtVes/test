@@ -1,2 +1,4 @@
 let div = document.getElementsByTagName("div");
-document.write("<br>" + div.length);
+
+const child = document.body.childNodes;
+document.write(child[5]);
