@@ -1,4 +1,11 @@
-let div = document.getElementsByTagName("div");
+document.write("<br>" + "---------------------------------------javascript---------------------------------------" + "<br>");
 
-const child = document.body.childNodes;
-document.write(child[5]);
+let div = document.getElementById("main");
+let p = document.getElementById("pp");
+
+
+
+
+
+
+

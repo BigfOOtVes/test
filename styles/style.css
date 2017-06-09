@@ -1,5 +1,31 @@
-.main {
-	margin: auto auto;
+body {
+	margin: 0;
+}
+
+#main {
+	margin: 0 auto;
 	width: 150px;
 	height: 150px;
+	background-color: grey;
+	border: 2px solid black;
+	align: center;
+}
+
+#main:hover {
+	background-color: red;
+}
+
+#pp {
+	text-align: center;
+	
+	
+}
+
+#testDiv {
+	float: center;
+	padding: 15px;
+}
+
+a:hover {
+	color: black;
 }
