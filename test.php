@@ -7,7 +7,7 @@
 	
 </head>
 <body>
-	<h1>Testing javascript</h1>
+	<h1>Testing test.php and javascript</h1>
 	<div id="main">
 		<p id="pp">tttttttttttttttt</p>
 	</div>
@@ -15,7 +15,9 @@
 		<img src="images/262517.jpg">
 	</div>
 
-	<a href="index.php">go to index.php</a>
+	<a href="index.php">go to main</a>
+	<br>
+	<a href="tttest.html">go to html</a>
 	<script type="text/javascript" src="js/jstest.js"></script>
 </body>
 </html>
